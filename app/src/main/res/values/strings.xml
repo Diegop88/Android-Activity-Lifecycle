@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ActivityLifeCylce</string>
+    <string name="info">
+        En esta aplicación se muestra el ciclo de vida de la actividad por medio de Toasts (Mensajes).
+        \n\n
+        Los mensajes se van mostrando en el orden en el que se van llamando.
+        \n\n
+        Abre un dialogo, otra actividad u otra app para ver como reacciona esta app ante el ciclo de vida.
+    </string>
+    <string name="showDialog">Mostrar un dialogo</string>
+    <string name="openActivity">Abrir otra actividad</string>
+</resources>
