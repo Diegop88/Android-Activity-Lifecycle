@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityLifeCylce</string>
+    <string name="info">
+        This app....
+    </string>
+    <string name="showDialog">Show a dialog</string>
+    <string name="openActivity">Open another activity</string>
+</resources>
