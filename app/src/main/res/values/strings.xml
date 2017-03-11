@@ -9,4 +9,7 @@
     </string>
     <string name="showDialog">Mostrar un dialogo</string>
     <string name="openActivity">Abrir otra actividad</string>
+
+    <string name="text_test">Hola tester!</string>
+    <string name="second_text_test">Hola de nuevo tester!</string>
 </resources>
